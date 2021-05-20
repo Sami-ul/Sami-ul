@@ -20,7 +20,7 @@ CSS | Intermediate
 NodeJS | Intermediate
 C | Beginner
 Processing | Advanced
-Photoshop | Beginner
+
 
 - 10 - Can fluently use the technology
 - 5 - Understands the basics of the technology
