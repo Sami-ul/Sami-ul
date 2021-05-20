@@ -1,6 +1,6 @@
 <h1 align="center">
 Hello, I'm Samisai
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
 - I push myself to do well in school and to pursue my interests, which includes programming
