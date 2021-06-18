@@ -4,8 +4,8 @@ Hello, I'm Samisai
 </h1>
 
 - I push myself to do well in school and to pursue my interests, which includes programming
-- Right now, I'm studying C and web development
-- I build quite a few projects, very few make it onto Github
+- Right now, I'm making many projects with python and studying data science and machine learning
+- I build many projects, I put some on Github
 
 <h2 align="center">
 Languages I Know:
@@ -20,12 +20,6 @@ CSS | Intermediate
 NodeJS | Intermediate
 C | Beginner
 Processing | Advanced
-
-
-- 10 - Can fluently use the technology
-- 5 - Understands the basics of the technology
-- 1 - Has seen the technology
-<img src="https://github.com/Sami-ul/Sami-ul/blob/main/newplot.png?raw=true" height="300">
 
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:samisaibusinessinquiries@gmail.com)
 
