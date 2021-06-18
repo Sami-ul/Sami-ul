@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, I'm Samisai
+Hello, I'm Sami
 <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
 </h1>
 
