@@ -3,9 +3,6 @@ Sami-ul
 </h1>
 
 <h2 align="center">
-Languages I Know:
-</h2>
-
 Language | Skill Level
 ------------ | -------------
 Python | Advanced
@@ -15,6 +12,9 @@ CSS | Beginner
 NodeJS | Intermediate
 Processing | Advanced
 Java | Intermediate
+</h2>
+
+
 
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:ahmed.samiul.h@gmail.com)
 
