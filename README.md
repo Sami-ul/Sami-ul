@@ -19,6 +19,7 @@ HTML | Beginner
 CSS | Beginner
 NodeJS | Intermediate
 Processing | Advanced
+Java | Intermediate
 
 [![Email](https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail)](mailto:ahmed.samiul.h@gmail.com)
 
