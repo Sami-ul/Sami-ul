@@ -1,11 +1,6 @@
 <h1 align="center">
-Hello, I'm Sami
-<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="32" />
+Sami-ul
 </h1>
-
-- I push myself to do well in school and to pursue my interests, which includes programming
-- Right now, I'm making many projects with python and studying data science and machine learning
-- I build many projects, I put some on Github
 
 <h2 align="center">
 Languages I Know:
