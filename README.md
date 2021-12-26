@@ -2,7 +2,6 @@
 Sami-ul
 </h1>
 
-<h2 align="center">
 Language | Skill Level
 ------------ | -------------
 Python | Advanced
@@ -12,7 +11,6 @@ CSS | Beginner
 NodeJS | Intermediate
 Processing | Advanced
 Java | Intermediate
-</h2>
 
 
 
