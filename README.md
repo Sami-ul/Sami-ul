@@ -2,15 +2,7 @@
 Sami-ul
 </h1>
 
-Language | Skill Level
------------- | -------------
-Python | Advanced
-Javascript | Intermediate
-HTML | Beginner
-CSS | Beginner
-NodeJS | Intermediate
-Processing | Advanced
-Java | Intermediate
+<img src="./test.svg">
 
 
 
