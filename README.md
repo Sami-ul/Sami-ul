@@ -2,7 +2,7 @@
 Sami-ul
 </h1>
 
-<img src="./test.svg">
+<img src="./test-cropped.svg">
 
 
 
