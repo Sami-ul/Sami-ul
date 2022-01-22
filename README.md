@@ -2,7 +2,15 @@
 Sami-ul
 </h1>
 
-<img src="./test-cropped.svg">
+| Technology  | Skill level |
+| ------------- | ------------- |
+| Python | Advanced |
+| NodeJS | Advanced |
+| Java | Intermediate |
+| C# | Intermediate |
+| Processing | Advanced |
+| Javascript | Beginner |
+| HTML & CSS | Beginner |
 
 
 
