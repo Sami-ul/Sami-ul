@@ -9,13 +9,24 @@
 </a>
 </td></tr>
 </table>
+
 <h3 align="center">Stats</h3>
-<a href="https://github.com/sami-ul">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-ul&show_icons=true&theme=cobalt" />
-</a>
-<a href="https://github.com/sami-ul">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact" />
-</a>
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/sami-ul">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-ul&show_icons=true&theme=cobalt" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/sami-ul">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+
 <p align="left"></p>
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
