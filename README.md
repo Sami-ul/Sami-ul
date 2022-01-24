@@ -6,9 +6,10 @@
       <tr>
          <td>
             <img src="https://img.shields.io/badge/Email-252422.svg?style=for-the-badge&logo=gmail" align="center">
+         </td>
+      </tr>
+   </table>
 </a>
-</td></tr>
-</table>
 
 <h3 align="center">Stats</h3>
 <table align="center">
