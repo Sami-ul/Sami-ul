@@ -20,6 +20,7 @@
             </a>
         </td>
         <td>
+           <i>Jupyter Notebook Bloated the Graph</i>
             <a href="https://github.com/sami-ul">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact" />
             </a>
