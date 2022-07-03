@@ -16,13 +16,12 @@
     <tr>
         <td>
             <a href="https://github.com/sami-ul">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-ul&show_icons=true&theme=cobalt" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-ul&show_icons=true&theme=cobalt&count_private=true" />
             </a>
         </td>
         <td>
-           <i>Jupyter Notebook Bloated the Graph</i>
             <a href="https://github.com/sami-ul">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact&exclude_repo=Loan-Classification&langs_count=8" />
             </a>
         </td>
     </tr>
