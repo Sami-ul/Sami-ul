@@ -64,6 +64,10 @@
       <td>HTML & CSS</td>
       <td>Beginner</td>
    </tr>
+   <tr>
+      <td>Flutter</td>
+      <td>Intermediate</td>
+   </tr>
 </table>
 </p>
 
