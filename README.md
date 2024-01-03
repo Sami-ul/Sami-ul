@@ -135,15 +135,21 @@ th>Experience Level</th>
 <i>These are a few extra repositories I wanted to display, other's are available if you scroll down to the pinned repos</i>
 <table align="center">
     <tr>
+       <a href="https://github.com/Sami-ul/Matrices">
         <td>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=Matrices)](https://github.com/Sami-ul/Matrices)" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=Matrices" />
         </td>
+       </a>
+       <a hrev="https://github.com/Sami-ul/Gradients-Extension">
        <td>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=Gradients-Extension)](https://github.com/Sami-ul/Gradients-Extension)" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=Gradients-Extension" />
         </td>
-       <td>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=LodestarServer)](https://github.com/Sami-ul/LodestarServer)" />
-        </td>
+       </a>
+       <a href="https://github.com/Sami-ul/LodestarServer">
+          <td>
+                   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=LodestarServer" />
+           </td>
+       </a>
     </tr>
 </table>
 
