@@ -16,7 +16,7 @@
     <tr>
         <td>
             <a href="https://github.com/sami-ul">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact&exclude_repo=Loan-Classification&langs_count=6&hide=c%2B%2B,CMake" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-ul&langs_count=8&theme=cobalt&layout=compact&exclude_repo=Loan-Classification,Data-Science-Website&hide=c%2B%2B,CMake" />
             </a>
         </td>
     </tr>
