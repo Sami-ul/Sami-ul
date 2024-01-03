@@ -29,7 +29,8 @@
 <table align="center">
    <tr>
       <th>Technology</th>
-      <th>Experience Level</th>
+      <
+th>Experience Level</th>
    </tr>
    <tr>
       <td>Python</td>
@@ -130,3 +131,19 @@
     </td>
   </tr>
 </table>
+<h2> Extra Repositories </h2>
+<i>These are a few extra repositories I wanted to display, other's are available if you scroll down to the pinned repos</i>
+<table align="center">
+    <tr>
+        <td>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=Matrices)](https://github.com/Sami-ul/Matrices)" />
+        </td>
+       <td>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=Gradients-Extension)](https://github.com/Sami-ul/Gradients-Extension)" />
+        </td>
+       <td>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-ul&repo=LodestarServer)](https://github.com/Sami-ul/LodestarServer)" />
+        </td>
+    </tr>
+</table>
+
