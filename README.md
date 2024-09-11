@@ -29,8 +29,7 @@
 <table align="center">
    <tr>
       <th>Technology</th>
-      <
-th>Experience Level</th>
+      <th>Experience Level</th>
    </tr>
    <tr>
       <td>Python</td>
@@ -38,10 +37,6 @@ th>Experience Level</th>
    </tr>
    <tr>
       <td>NodeJS</td>
-      <td>Advanced</td>
-   </tr>
-   <tr>
-      <td>Processing</td>
       <td>Advanced</td>
    </tr>
    <tr>
